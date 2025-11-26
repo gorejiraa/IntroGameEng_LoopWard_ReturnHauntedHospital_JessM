@@ -6613,17 +6613,17 @@ PrefabInstance:
     - target: {fileID: 7476467771944562406, guid: cc1b88b98e24f9d4cbd96ea657055335,
         type: 3}
       propertyPath: m_LocalRotation.x
-      value: -0.17896734
+      value: -0.17896736
       objectReference: {fileID: 0}
     - target: {fileID: 7476467771944562406, guid: cc1b88b98e24f9d4cbd96ea657055335,
         type: 3}
       propertyPath: m_LocalRotation.y
-      value: 0.29784977
+      value: 0.29784974
       objectReference: {fileID: 0}
     - target: {fileID: 7476467771944562406, guid: cc1b88b98e24f9d4cbd96ea657055335,
         type: 3}
       propertyPath: m_LocalRotation.z
-      value: -0.056952916
+      value: -0.05695289
       objectReference: {fileID: 0}
     - target: {fileID: 9021479220039721075, guid: cc1b88b98e24f9d4cbd96ea657055335,
         type: 3}
